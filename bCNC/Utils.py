@@ -58,8 +58,8 @@ except Exception:
 
 __author__ = "Vasilis Vlachoudis"
 __email__ = "vvlachoudis@gmail.com"
-__version__ = "0.9.15"
-__date__ = "24 June 2022"
+__version__ = "0.9.16a (branch dw-20231004 git324076d)"
+__date__ = "4 Oct 2023"
 __prg__ = "bCNC"
 
 
