@@ -35,7 +35,8 @@
       "sources": [
         {
           "type": "git",
-          "path": ".."
+          "path": "..",
+          "commit": "694afc22a232ff43545906e4ab691b7ecb5e1069"
         }
       ]
     },
